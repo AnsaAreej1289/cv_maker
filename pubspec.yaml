@@ -1,0 +1,48 @@
+name: cv_maker
+description: A simple Flutter CV maker app with PDF generation.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.6
+  google_fonts: ^6.1.0
+
+  pdf: ^3.10.8
+  printing: ^5.12.0
+  path_provider: ^2.1.3
+  share_plus: ^7.2.2
+  open_filex: ^4.3.2
+  json_annotation: ^4.8.1 # <<< CRITICAL: Ensure this is here
+  image_picker: ^1.1.2    # For picking profile images
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  json_serializable: ^6.7.1 # <<< CRITICAL: Ensure this is here
+  build_runner: ^2.4.8    # <<< CRITICAL: Ensure this is here
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/create_new_icon.png
+    - assets/images/templates_illustration.jpg
+    - assets/images/my_creation_icon.png
+    - assets/images/john_doe_cv_thumbnail.png # Make sure this thumbnail exists
+    - assets/templates/Connor Hamilton.json
+    - assets/templates/cv_ansa.json
+    - assets/templates/JULIANA SILVA.json
+    - assets/templates/samira_hadid.json
+    - assets/templates/SATRIA ANUGRAH.json
+    - assets/templates/simple_basic_template.json
+    - assets/profile_pics/ansa_areej_profile.jpeg
+    - assets/profile_pics/donna_stroupe_profile.jpg
+    - assets/profile_pics/juliana_silva_profile.jpg
+    - assets/profile_pics/samira_hadid_profile.jpg

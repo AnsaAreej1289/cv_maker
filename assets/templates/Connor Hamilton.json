@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "id": "connor_hamilton_template",
+    "name": "Connor Hamilton Style",
+    "description": "A modern and professional CV template inspired by Connor Hamilton's design.",
+    "thumbnailUrl": "assets/images/john_doe_cv_thumbnail.png"
+  },
+  "layout": {
+    "type": "single_column",
+    "settings": {
+      "header_alignment": "left",
+      "body_spacing": 12
+    },
+    "sections": ["personal", "contact", "summary", "experience", "education", "skills", "languages"]
+  },
+  "colors": {
+    "primary": 4280361249,
+    "secondary": 4291880681,
+    "background": 4294967295,
+    "text": 4278190080
+  },
+  "fonts": {
+    "heading": "Roboto",
+    "body": "Open Sans"
+  },
+  "defaultData": {
+    "name": "CONNOR HAMILTON",
+    "title": "Software Developer",
+    "summary": "Experienced developer with a passion for creating efficient and scalable solutions.",
+    "profileImagePath": null,
+    "contact": {
+      "phone": "+1 (123) 456-7890",
+      "email": "connor.h@example.com",
+      "address": "San Francisco, CA",
+      "website": "github.com/connor"
+    },
+    "education": [
+      {
+        "degree": "B.Sc. Computer Science",
+        "institution": "University of Technology",
+        "years": "2016-2020"
+      }
+    ],
+    "experiences": [
+      {
+        "position": "Junior Developer",
+        "company": "Tech Innovations",
+        "years": "2020-Present",
+        "responsibilities": ["Developed mobile applications", "Collaborated on backend systems"]
+      }
+    ],
+    "skills": ["Python", "Java", "SQL", "Cloud Computing"],
+    "languages": ["English", "French"]
+  }
+}

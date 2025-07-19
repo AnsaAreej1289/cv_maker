@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "id": "cv_ansa_template",
+    "name": "Ansa Areej Minimalist CV",
+    "description": "A minimalist and clean CV template suitable for various professions.",
+    "thumbnailUrl": "assets/images/john_doe_cv_thumbnail.png"
+  },
+  "defaultData": {
+    "name": "ANSA AREEJ",
+    "title": "Flutter Developer",
+    "contact": {
+      "phone": "0331-XXXXXXX",
+      "email": "ansaareej@gmail.com",
+      "address": "Lahore, Johar Town",
+      "website": "example.com"
+    },
+    "profileImagePath": "assets/profile_pics/ansa_areej_profile.jpeg",
+    "summary": "Highly motivated Flutter developer with a strong background in software development, object-oriented programming and database systems. Actively seeking a challenging role to learn and grow within a professional environment. Demonstrates solid skills to solve real-world problems through critical thinking and team-based collaborations. A dedicated team player with a passion for contributing to a dynamic team while enhancing technical and collaborative skills.",
+    "education": [
+      {
+        "years": "2018 - 2021",
+        "institution": "Pre-Medical",
+        "degree": "FSC (Pre-Medical)"
+      },
+      {
+        "years": "2021 - Present",
+        "institution": "BAHRIA UNIVERSITY",
+        "degree": "BS in Information Technology"
+      }
+    ],
+    "experiences": [
+      {
+        "years": "2022 - 2023",
+        "company": "Skill Solutions Inc.",
+        "position": "Software Development Intern",
+        "responsibilities": [
+          "Developed mobile games, including a trivia mobile game and a functional mobile application using Flutter and Dart.",
+          "Collaborated on designing and developing a database system as a university project, demonstrating web development skills.",
+          "Worked on various projects in C++ with a focus on Object-Oriented Programming (OOP).",
+          "Strengthened problem-solving abilities through projects related to Data Structures and Algorithms with significant impact."
+        ]
+      }
+    ],
+    "skills": [
+      "C++",
+      "Java",
+      "PHP",
+      "Object Oriented Programming",
+      "Dart",
+      "SQL",
+      "Firebase",
+      "MS Office",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Flutter"
+    ],
+    "languages": [
+      "English",
+      "Urdu"
+    ]
+  },
+  "colors": {
+    "primary": 4280361249,
+    "secondary": 4291880681,
+    "background": 4294967295,
+    "text": 4278190080
+  },
+  "fonts": {
+    "heading": "Roboto",
+    "body": "Open Sans"
+  },
+  "layout": {
+    "type": "single_column",
+    "settings": {},
+    "sections": ["personal", "contact", "summary", "skills", "experience", "education", "languages"]
+  }
+}

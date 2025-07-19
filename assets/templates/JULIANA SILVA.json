@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "id": "juliana_silva_template",
+    "name": "Juliana Silva Digital Marketing CV",
+    "description": "A dynamic CV template for digital marketing specialists with a focus on experience and skills.",
+    "thumbnailUrl": "assets/images/john_doe_cv_thumbnail.png"
+  },
+  "defaultData": {
+    "name": "JULIANA SILVA",
+    "title": "Digital Marketing Specialist",
+    "contact": {
+      "phone": "+123-456-7890",
+      "email": "hello@reallygreatsite.com",
+      "address": "123 Anywhere St., Any City",
+      "website": "www.reallygreatsite.com"
+    },
+    "profileImagePath": "assets/profile_pics/juliana_silva_profile.jpg",
+    "summary": "I'm Juliana Silva, Digital Marketing Specialist with 4 years' experience. I'm a specialist in handling and managing day to day team operations with considerable experience to read trends",
+    "education": [
+      {
+        "years": "2012 - 2015",
+        "institution": "Shadows University",
+        "degree": "Bachelor Degree of Marketing and Business"
+      },
+      {
+        "years": "2015 - 2018",
+        "institution": "Reallygreatsite University",
+        "degree": "Master Degree of Marketing and Business"
+      }
+    ],
+    "experiences": [
+      {
+        "years": "2018 - 2019",
+        "company": "Larana Inc. Branding",
+        "position": "Social Media Manager",
+        "responsibilities": ["Handling social media campaign and Managing day to day handling social media time line upload"]
+      },
+      {
+        "years": "2019 - present",
+        "company": "Shadows Cosmetics",
+        "position": "Digital Marketing Manager",
+        "responsibilities": ["Managing oversees Company's digital marketing strategies to reach more clients on the website and social media."]
+      }
+    ],
+    "skills": [
+      "Digital Marketing Tool",
+      "Copywriting & Storywriting",
+      "Digital Marketing Tool",
+      "Search Engine Optimization",
+      "Meta Tag Optimization"
+    ],
+    "languages": [
+      "English"
+    ]
+  },
+  "colors": {
+    "primary": 4287814984,
+    "secondary": 4291811560,
+    "background": 4294967295,
+    "text": 4278190080
+  },
+  "fonts": {
+    "heading": "Roboto Slab",
+    "body": "Open Sans"
+  },
+  "layout": {
+    "type": "single_column",
+    "settings": {},
+    "sections": ["personal", "contact", "summary", "experience", "education", "skills", "languages"]
+  }
+}

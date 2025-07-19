@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "id": "donna_stroupe_template",
+    "name": "Donna Stroupe Modern CV",
+    "description": "A clean and professional CV template with a clear layout.",
+    "thumbnailUrl": "assets/images/john_doe_cv_thumbnail.png"
+  },
+  "defaultData": {
+    "name": "DONNA STROUPE",
+    "title": "Marketing Manager",
+    "summary": "Results-driven Marketing Manager with a proven track record in developing and executing successful marketing strategies. Adept at brand management, digital marketing, and team leadership.",
+    "profileImagePath": null,
+    "contact": {
+      "phone": "+1 (987) 654-3210",
+      "email": "donna.s@example.com",
+      "address": "New York, NY",
+      "website": "linkedin.com/in/donnastroupe"
+    },
+    "education": [
+      {
+        "degree": "B.A. Marketing",
+        "institution": "State University",
+        "years": "2010-2014"
+      },
+      {
+        "degree": "M.Sc. Business Administration",
+        "institution": "City University",
+        "years": "2014-2016"
+      }
+    ],
+    "experiences": [
+      {
+        "position": "Marketing Coordinator",
+        "company": "Innovate Solutions",
+        "years": "2016-2018",
+        "responsibilities": ["Managed social media campaigns", "Created marketing materials"]
+      },
+      {
+        "position": "Marketing Manager",
+        "company": "Global Brands Inc.",
+        "years": "2018-Present",
+        "responsibilities": ["Developed marketing strategies", "Led a team of 5 marketing specialists"]
+      }
+    ],
+    "skills": ["Digital Marketing", "Brand Management", "SEO", "Content Creation", "Team Leadership"],
+    "languages": ["English", "Spanish"]
+  },
+  "colors": {
+    "primary": 4294954752,
+    "secondary": 4294967090,
+    "background": 4294967295,
+    "text": 4278190080
+  },
+  "fonts": {
+    "heading": "Oswald",
+    "body": "Lato"
+  },
+  "layout": {
+    "type": "single_column",
+    "settings": {},
+    "sections": ["personal", "contact", "summary", "experience", "education", "skills", "languages"]
+  }
+}

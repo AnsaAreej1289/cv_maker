@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "id": "samira_hadid_template",
+    "name": "Samira Hadid Web Dev CV",
+    "description": "A two-column CV template designed for experienced web developers, highlighting skills and projects.",
+    "thumbnailUrl": "assets/images/john_doe_cv_thumbnail.png"
+  },
+  "defaultData": {
+    "name": "SAMIRA HADID",
+    "title": "WEB DEVELOPER",
+    "contact": {
+      "phone": "03XX-XXXXXXX",
+      "email": "hello@reallygreatsite.com",
+      "address": "03 Anywhere St., Any City",
+      "website": "reallygreatsite.com"
+    },
+    "profileImagePath": "assets/profile_pics/samira_hadid_profile.jpg",
+    "summary": "I am a qualified and professional web developer with five years of experience in database administration and web-dev design. Strong creative and analytical skills. Team player with an eye for detail.",
+    "education": [
+      {
+        "years": "2010 - 2014",
+        "institution": "Really Great High School",
+        "degree": "Secondary School"
+      },
+      {
+        "years": "2014 - 2016",
+        "institution": "Really Great University",
+        "degree": "Bachelor of Technology"
+      }
+    ],
+    "experiences": [
+      {
+        "years": "2015 - Present",
+        "company": "Really Great Company",
+        "position": "Application Developer",
+        "responsibilities": [
+          "Performed database administration and web-dev design.",
+          "Built scalable streaming platform logic.",
+          "Managed educational institutions and online classroom systems."
+        ]
+      },
+      {
+        "years": "2014 - 2015",
+        "company": "Really Great Company",
+        "position": "Web Content Manager",
+        "responsibilities": [
+          "Oversaw website content and design.",
+          "Implemented content management strategies.",
+          "Collaborated on user experience improvements."
+        ]
+      },
+      {
+        "years": "2013 - 2014",
+        "company": "Really Great Company",
+        "position": "Analyst Developer",
+        "responsibilities": [
+          "Analyzed system requirements and designed solutions.",
+          "Developed and maintained software applications.",
+          "Provided technical support and troubleshooting."
+        ]
+      }
+    ],
+    "skills": [
+      "Web Design",
+      "Design Thinking",
+      "Wireframe Creation",
+      "Front End Coding",
+      "Problem-Solving",
+      "Computer Literacy",
+      "Project Management Tools",
+      "Strong Communication"
+    ],
+    "languages": [
+      "English",
+      "Urdu"
+    ]
+  },
+  "colors": {
+    "primary": 4280361249,
+    "secondary": 4291771776,
+    "background": 4294967295,
+    "text": 4278190080
+  },
+  "fonts": {
+    "heading": "Montserrat",
+    "body": "Lato"
+  },
+  "layout": {
+    "type": "two_column",
+    "settings": {},
+    "sections": ["personal", "contact", "summary", "skills", "experience", "education", "languages"]
+  }
+}
